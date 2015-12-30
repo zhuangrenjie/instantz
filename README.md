@@ -1,0 +1,2 @@
+# instantz
+a blog
